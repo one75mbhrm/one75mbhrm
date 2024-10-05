@@ -10,8 +10,11 @@
 Since 2020, I've been dedicated to finding the right people, building strong teams, and fostering a great workplace culture. I’ve had the opportunity to immerse myself in various projects, helping organizations thrive by connecting them with exceptional talent. ✨😍
 
 👀 I’m hiring for the IT Profiles
+
 🌱 I’m currently learning Coding
+
 💞️ I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/sofia-khan-11812024b/)
+
 📫 Reach me on sofia@one75mbhrm.com or 9958526339
 
 
