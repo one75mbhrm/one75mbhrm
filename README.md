@@ -13,5 +13,5 @@ What I'm focusing on 👨‍💻
 Currently, I’m excited about enhancing my skills in talent acquisition strategies, employer branding, and building strong candidate pipelines. Let’s connect and create opportunities together!
 
 🛠️ Skills & Tools
-
+<img
 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.teamplusindia.in%2Frecruitment-agencies-in-roorkee%2F&psig=AOvVaw2NWxHmEaXJD5rXOfv8jLt3&ust=1728211904035000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIC7oJeJ94gDFQAAAAAdAAAAABAE" alt="" data-canonical-src="https://img.shields.io/badge/Recruitment-ED8B00?style=for-the-badge&amp;logo=Java;logoColor=white" style="max-width: 100%;">
