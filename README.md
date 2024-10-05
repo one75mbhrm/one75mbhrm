@@ -9,6 +9,7 @@ Since 2020, I've been dedicated to finding the right people, building strong tea
 
 
 What I'm focusing on 👨‍💻
+
 Currently, I’m excited about enhancing my skills in talent acquisition strategies, employer branding, and building strong candidate pipelines. Let’s connect and create opportunities together!
 <!---
 one75mbhrm/one75mbhrm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
