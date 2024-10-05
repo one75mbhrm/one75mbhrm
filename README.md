@@ -1,4 +1,5 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=00008B&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+My+name+is+Sofia+Khan+%F0%9F%91%8B;I'm+a+Senior+Talent+Acquisition+Specialist+%F0%9F%92%BB;I'm+a+Certified+Naukri+Maestro+Recruiter" alt="Typing SVG" style="max-width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=FFFFFF&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+My+name+is+Sofia+Khan+%F0%9F%91%8B;I'm+a+Senior+Talent+Acquisition+Specialist+%F0%9F%92%BB;I'm+a+Certified+Naukri+Maestro+Recruiter" alt="Typing SVG" style="max-width: 100%;">
+
 
 
 
