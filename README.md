@@ -21,4 +21,8 @@ Currently, I’m excited about enhancing my skills in talent acquisition strateg
 
 🛠️ Skills & Tools
 
-<img src="https://camo.githubusercontent.com/29f4bdfbd7dd2ed5be81e4a8c67e6333760845c51902e36f18682e95442dbfcf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" alt="" data-canonical-src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=java&amp;logoColor=white" style="max-width: 100%;">
+[Recruitment](https://img.shields.io/badge/Recruitment-FF5733?style=for-the-badge&logo=people&logoColor=white)
+[Sourcing](https://img.shields.io/badge/Sourcing-28A745?style=for-the-badge&logo=linkedin&logoColor=white)
+[Resume Screening](https://img.shields.io/badge/Resume_Screening-0077B5?style=for-the-badge&logo=resume&logoColor=white)
+[Negotiation](https://img.shields.io/badge/Negotiation-FFD700?style=for-the-badge&logo=handshake&logoColor=black)
+[Hiring](https://img.shields.io/badge/Hiring-FF4500?style=for-the-badge&logo=hiring&logoColor=white)
